@@ -21,7 +21,7 @@ void rev_string(char *s)
 	{
 	tmp = s[index];
 	s[index] = s[len - index -1];
+
 	s[len - index - 1] = tmp;
 	}
 }
-	

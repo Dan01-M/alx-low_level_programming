@@ -1,7 +1,7 @@
 #include "lists.h"
 
 /**
- * dlistint_len - Write a function that returns the number of elements in a linked.
+ * dlistint_len - Write a function that returns the number of elemnts.
  *
  * @h: head of the list allocated.
  * Return: the number of nodes if not Null.
